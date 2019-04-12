@@ -1,0 +1,28 @@
+60	2 4 8 16 32 64		1	6	1	Old Kent Road
+60	2 4 8 16 32 64		1	6	1	Warchaple
+60	2 4 8 16 32 64		2	6	1	Beat Street
+60	2 4 8 16 32 64		2	6	1	Funky G
+60	2 4 8 16 32 64		2	6	1	B3
+60	2 4 8 16 32 64		3	6	1	Pall Mall
+60	2 4 8 16 32 64		3	6	1	Northumbios
+60	2 4 8 16 32 64		3	6	1	MaryPinkShit
+60	2 4 8 16 32 64		4	6	1	BowStreet
+60	2 4 8 16 32 64		4	6	1	Orange2
+60	2 4 8 16 32 64		4	6	1	Orange3
+60	2 4 8 16 32 64		5	6	1	Fleet Street
+60	2 4 8 16 32 64		5	6	1	Trafalgar
+60	2 4 8 16 32 64		5	6	1	Red3
+60	2 4 8 16 32 64		6	6	1	Picikladi
+60	2 4 8 16 32 64		6	6	1	Yellow2
+60	2 4 8 16 32 64		6	6	1	Yellow3
+60	2 4 8 16 32 64		7	6	1	Bond St
+60	2 4 8 16 32 64		7	6	1	Regent St
+60	2 4 8 16 32 64		7	6	1	Kensignton
+60	2 4 8 16 32 64		8	6	1	Park Lane
+60	2 4 8 16 32 64		8	6	1	Mayfair
+60	2 4 8 16 32 64		9	1	1	Electric Co
+60	2 4 8 16 32 64		9	1	1	Water Works
+60	2 4 8 16 32 64		10	1	4	KingsCross
+60	2 4 8 16 32 64		10	1	4	Marylebone
+60	2 4 8 16 32 64		10	1	4	Marlboro
+60	2 4 8 16 32 64		10	1	4	Station4

@@ -1,0 +1,32 @@
+1 0 0 Immunity
+1 0 0 Immunity
+2 1 0 To START
+2 25 0 To Trafalgar
+2 16 0 To Marylebone St.
+2 40 0 To Mayfair
+2 1 0 To START
+2 2 0 To Old Kent Rd.
+2 0 -3 Go back 3 spaces
+2 12 0 To Pall Mall
+3 -50 0 Doctor's fee
+3 25 0 Shares
+3 20 0 Tax refund
+3 -100 0 Hospital fee
+3 -50 0 Insurance fee
+3 100 0 Inheritance
+3 10 0 Prize
+3 100 0 Annuity
+3 50 0 Stocks
+3 200 0 Bank error
+3 100 0 Competition
+3 50 0 Dividend
+3 -20 0 DUI fee
+3 150 0 Loan
+3 -15 0 Speeding fee
+3 -150 0 School fee
+4 0 0 Under arrest
+4 0 0 Under arrest
+5 10 0 Risk or pay
+6 10 0 Risk or pay
+7 25 100 House repairs
+7 40 115 Street repairs
